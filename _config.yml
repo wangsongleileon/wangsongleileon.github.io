@@ -103,5 +103,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/wangsongleileon/wangsongleileon.github.io
+  repo: https://github.com/wangsongleileon/songlei.github.io.git
   branch: master
